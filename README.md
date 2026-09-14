@@ -53,7 +53,7 @@ Base route: `/api/gnb`
 
 ```bash
 # Clone the repository
-git clone https://github.com/oscarlopez1991/vueling-netcore-api.git
+git clone https://github.com/oscar-lopez-dev/vueling-netcore-api.git
 cd vueling-netcore-api
 
 # Restore packages
